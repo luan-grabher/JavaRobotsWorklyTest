@@ -1,4 +1,4 @@
-package TesteDeFuncionamento.Model;
+package Model;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import java.util.List;

@@ -3,6 +3,10 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Robots\\dist\\Robots.jar"
+        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Robots\\dist\\Robots.jar",
+        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Sql\\dist\\SQL.jar",
+        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Jar-Vendors\\JayBird.jar",
+        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Jar-Vendors\\mysql-connector-java-8.0.13.jar",
+        "c:\\Users\\Administrador\\Documents\\Projetos\\Moresco\\Jar-Vendors\\SeleniumWebDriver.jar"
     ]
 }
